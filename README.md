@@ -1,13 +1,14 @@
 #Software Projekte für Linux und Windows
 Willkommen im Repository für meine Softwareprojekte, die sich auf die Entwicklung von Tools, Clients und Anwendungen für Linux-Distributionen wie Debian, Ubuntu und Linux Mint konzentrieren. Einige Projekte werden auch für Windows veröffentlicht, um eine plattformübergreifende Nutzung zu ermöglichen.
 
-#Übersicht
+Übersicht
 In diesem Repository findest du verschiedene Projekte, darunter:
 
 Website-Projekte: Webseiten und Tools zur Verwaltung und Interaktion mit Servern und Benutzern, darunter .onion-Seiten und clearnet-Webseiten.
 RCI Clients: Implementierungen von Remote Command Interface (RCI) Clients in verschiedenen Programmiersprachen, die für die einfache und sichere Kommunikation zwischen Servern und Clients ausgelegt sind.
 Netzwerk- und Serveranwendungen: Tools zur Überwachung, Verwaltung und Automatisierung von Servern und Netzwerken, vor allem für Linux-Server, aber auch teilweise für Windows-Systeme.
-#Projekte
+
+Projekte
 1. Linux-Tools
 Spezifische Tools und Skripte für Linux-Umgebungen, die Systemadministration, Servermanagement und Automatisierung vereinfachen.
 Unterstützte Distributionen: Debian, Ubuntu, Linux Mint
@@ -16,7 +17,8 @@ Plattformübergreifende Tools, die auf Linux entwickelt, aber für Windows optim
 3. RCI Clients
 Remote Command Interface Clients, die in verschiedenen Programmiersprachen wie Python entwickelt wurden.
 Diese Clients ermöglichen es, auf einfache Weise mit entfernten Servern zu kommunizieren und Befehle auszuführen.
-#Anforderungen
+
+Anforderungen
 Die meisten Projekte in diesem Repository setzen die folgenden Softwarekomponenten voraus:
 
 Linux: Debian, Ubuntu, Linux Mint (andere Distributionen können unterstützt werden)
