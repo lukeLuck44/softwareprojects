@@ -1,4 +1,4 @@
-#Software Projekte für Linux und Windows
+Software Projekte für Linux und Windows
 Willkommen im Repository für meine Softwareprojekte, die sich auf die Entwicklung von Tools, Clients und Anwendungen für Linux-Distributionen wie Debian, Ubuntu und Linux Mint konzentrieren. Einige Projekte werden auch für Windows veröffentlicht, um eine plattformübergreifende Nutzung zu ermöglichen.
 
 Übersicht
